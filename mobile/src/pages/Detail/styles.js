@@ -63,7 +63,6 @@ export default StyleSheet.create({
   },
 
   action: {
-    display: flex,
     backgroundColor:'#e02041',
     borderRadius: 8,
     height: 50, 
